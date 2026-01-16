@@ -1,5 +1,6 @@
 # Pi-Top Slot Machine 
 Physical Slot Machine built on Raspberry Pi / Pi-Top
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ## Introduction
 I took on this project because there has been an epidemic of online gambling and betting that has only become more prevalent in recent years. I wanted to make something to show people not to gamble, because the odds are in the house's favor and you will always lose out in the long term. By building a physical slot machine using a pi-top I could allow people to gamble without actually losing real money.
@@ -31,6 +32,11 @@ I took on this project because there has been an epidemic of online gambling and
 | `CONFIRM_BET`| Bet is locked in            |
 | `SPIN`       | Slot reels spin and sound plays                  |
 | `RESULT`     | Shows result and win/loss before resetting to Idle       |
+
+## Acknowledgments
+This project was built using the following libraries and tools:
+- **[pi-top Python SDK](https://github.com/pi-top/pi-top-Python-SDK)** - Comprehensive library for controlling pi-top hardware components including the miniscreen, ultrasonic sensor, potentiometer, button, and LEDs
+- **[Pygame](https://www.pygame.org/)** - Cross-platform multimedia library used for audio playback
 
 MIT License
 
