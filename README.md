@@ -6,8 +6,11 @@ I took on this project because there has been an epidemic of online gambling and
 
 ## Features
 * Ultrasonic sensor to detect prescense
+![Ultrasonic Sensor](https://github.com/3452345y/DE-Final-Slot-Machine/blob/main/Github%20Images/ultrasonic_sensor.png)
 * Button for user input
+![Button](https://github.com/3452345y/DE-Final-Slot-Machine/blob/main/Github%20Images/button.png)
 * Adjustable bet with potentiometer
+![Potentiometer](https://github.com/3452345y/DE-Final-Slot-Machine/blob/main/Github%20Images/potentiometer.png)
 * Win Logic: Loss, Small Win (2 matching symbols), Big Win (3 Matching Symvols), Jackpot (Triple 7s)
 * Sounds for each result
 
