@@ -51,10 +51,8 @@ This project was built using the following libraries and tools:
 Button Debouncing - Physical button presses sometimes registered multiple times, causing the code to skip through states. To solve this, I created a `wait_for_release()` function to prevent state transitions until the button is released by sleeping for 0.01 seconds. Another Issue i faced was with the potentiometer, as the readings on it were not very reliable, and I had to map thsoe readings to the bet amouunt, so I created a function to round its values to 50. Initially I attempted to use a seperate LCD display: a LCD 1602 wired to the GPIO header, since it would have more capabilities than the pi-top display. However, I was unable to get it to work with RPLCD, a Python 3 Raspberry PI Character LCD library for the Hitachi HD44780 controller.
 
 ## Potential Improvements
-Data could be stored of money won/lost overtime of the program being run, which would better illustrate the anti-gambling message. Instead of static "spinning..." text, I could animate the symbols cycling on a display to more closely mimic real slot machines. I was acutally messing with a Monochrome 0.96" 128x64 OLED, but there wasn't time to implement that.
+Data could be stored of money won/lost overtime of the program being run, which would better illustrate the anti-gambling message. Instead of static "spinning..." text, I could animate the symbols cycling on a display to more closely mimic real slot machines. I was actually messing with a Monochrome 0.96" 128x64 OLED, but there wasn't time to implement that.
 
-Testing the OLED with a gif
-![GIF](https://github.com/3452345y/DE-Final-Slot-Machine/blob/main/Github%20Images/uma.mp4)
 
 MIT License
 
