@@ -6,11 +6,11 @@ I took on this project because there has been an epidemic of online gambling and
 
 ## Features
 *Ultrasonic sensor to detect prescense
-<img width="1050" height="700" alt="image" src="https://github.com/user-attachments/assets/d0d52823-8375-463a-b4f7-4d2f3a29d0b3" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/d0d52823-8375-463a-b4f7-4d2f3a29d0b3" />
 *Button for user input
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/246df5b5-ecb0-4f20-921c-93875b344cf3" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/246df5b5-ecb0-4f20-921c-93875b344cf3" />
 *Adjustable bet with potentiometer
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/00437b94-cec4-460d-92bd-54f22346dab7" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/00437b94-cec4-460d-92bd-54f22346dab7" />
 *Win Logic: Loss, Small Win (2 matching symbols), Big Win (3 Matching Symvols), Jackpot (Triple 7s)
 *Sounds for each result
 
